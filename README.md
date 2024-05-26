@@ -17,4 +17,4 @@
 - **Navegação**: Os usuários podem navegar pela Pokedex usando botões de navegação para ver os próximos ou anteriores Pokémon.
 </p>
 <h2>Onde posso acessar?</h2>
-<p>Você pode acessar a pokedex atraves do link: </p>
+<p>Você pode acessar a pokedex atraves do link: https://felipeoliveirasouza.github.io/pokedex/ </p>
