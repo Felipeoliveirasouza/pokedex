@@ -1,9 +1,20 @@
-<h1 align="center">PING PONG GAME</h1>
+<h1 align="center">POKEDEX</h1>
 <div align="center">
-<img src="https://github.com/Felipeoliveirasouza/ping-pong/assets/153692420/c59cf26c-7f1a-4d61-a066-18e9d6552579" width="500px" />
+<img src="https://github.com/Felipeoliveirasouza/pokedex/assets/153692420/b4dd5c1d-57e9-4ef1-89ce-82d92d8d398f" width="500px" />
 </div>
-<p>Bem-vindo ao Ping Pong Game! Este é um jogo simples de ping pong desenvolvido em JavaScript. É um projeto divertido e educacional para quem quer aprender mais sobre desenvolvimento de jogos ou aprimorar suas habilidades de programação.</p>
-<h2>Como Jogar?</h2>
-<p>Utilize o mouse para controlar sua raquete, a cada ponto marcado a velocidade da bolinha vai aumentando.</p>
-<h2>Onde posso jogar?</h2>
-<p>No seu PC, entre no Link: https://felipeoliveirasouza.github.io/ping-pong/</p>
+<p>Bem-vindo ao repositório do meu projeto Pokedex! Este projeto é uma aplicação web que simula a funcionalidade de uma Pokedex, um dispositivo fictício usado pelos treinadores de Pokémon para obter informações sobre as diferentes espécies de Pokémon.</p></p>
+<h2>Tecnologias Utilizadas</h2>
+<p>Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML5
+- CSS3
+- JavaScript</p>
+<h2>Funcionalidades</h2>
+<p>A Pokedex oferece as seguintes funcionalidades:
+
+- **Visualização de Pokémon**: Os usuários podem visualizar informações detalhadas sobre cada Pokémon, incluindo imagem, nome, tipo e habilidades.
+- **Pesquisa de Pokémon**: Os usuários podem pesquisar um Pokémon específico usando a barra de pesquisa.
+- **Navegação**: Os usuários podem navegar pela Pokedex usando botões de navegação para ver os próximos ou anteriores Pokémon.
+</p>
+<h2>Onde posso acessar?</h2>
+<p>Você pode acessar a pokedex atraves do link: </p>
